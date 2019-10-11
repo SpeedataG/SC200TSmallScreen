@@ -1,0 +1,2 @@
+include ':app', ':smallscreenlib'
+rootProject.name='SC200TSmallScreen'
